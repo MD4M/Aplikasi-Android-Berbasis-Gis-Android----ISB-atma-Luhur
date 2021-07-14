@@ -1,0 +1,2 @@
+rootProject.name = "GIS_FOR_DATABSE2"
+include ':app'
